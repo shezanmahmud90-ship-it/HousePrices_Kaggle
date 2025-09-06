@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+*.zip
+
+# Models
+*.joblib
+
+# VS Code settings
+.vscode/
+
+# MacOS
+.DS_Store
